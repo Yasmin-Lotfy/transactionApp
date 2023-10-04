@@ -1,0 +1,95 @@
+{
+    "customers": [
+        {
+            "id": "1",
+            "name": "Ahmed Ali",
+            "income": "10000",
+            "spending": 7100,
+            "email":"ahemdali@gmail.com",
+            "transactions": [
+            {"Saturday":{"Starbucks": "200","Amazon": "500","Netflix": "400" }},
+            {"Sunday":{"Costa": "200","Books": "200","Groceries": "100" }},
+            {"Monday":{"ElectricPill": "500","Noon": "50","Laptop": "1000" }},
+            {"Tuesday":{"Tickets": "200","Shopping": "400","Phone": "200" }},
+            {"Wednesday":{"Insurance": "100","Suplements": "400","Travel": "400" }},
+            {"Thursday":{"Course": "150","New Tv": "1000","House Pills": "400" }},
+            {"Friday":{"Starbucks": "100","Travel": "400","Dentist": "200" }}
+               
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Hassan Ali",
+            "income": "25000",
+            "spending": 4558,
+            "email":"hassanAli@gmail.com",
+            "transactions": [
+            {"Saturday":{"Noon": "100","Amazon": "200","Netflix": "100" }},
+            {"Sunday":{"Costa": "200","Books": "200","Groceries": "400" }},
+            {"Monday":{"ElectricPill": "50","Noon": "50","Laptop": "500" }},
+            {"Tuesday":{"Tickets": "200","Shopping": "500","Phone": "200" }},
+            {"Wednesday":{"Insurance": "50","Suplements": "500","Travel": "100" }},
+            {"Thursday":{"Course": "100","New Tv": "200","House Pills": "300" }},
+            {"Friday":{"Starbucks": "100","Travel": "1000","Dentist": "300" }}
+               
+            ]
+        }
+      ,
+      {
+        "id": "3",
+        "name": "Tarek Hassan",
+        "income": "40000",
+        "spending": 8450,
+        "email":"tarekHassan@gmail.com",
+        "transactions": [
+        {"Saturday":{"Noon": "1000","Amazon": "2000","Netflix": "100" }},
+        {"Sunday":{"Costa": "200","Books": "200","Groceries": "100" }},
+        {"Monday":{"ElectricPill": "50","Noon": "50","Laptop": "500" }},
+        {"Tuesday":{"Tickets": "200","Shopping": "500","Phone": "200" }},
+        {"Wednesday":{"Insurance": "50","Suplements": "300","Travel": "100" }},
+        {"Thursday":{"Course": "500","New Tv": "400","House Pills": "200" }},
+        {"Friday":{"Starbucks": "100","Travel": "1000","Dentist": "700" }}
+           
+        ]
+    },
+        {
+            "id": "4",
+            "name": "Nada sa3ed",
+            "income": "20000",
+            "spending": 7950,
+            "email":"nadasa3ed@gmail.com",
+            "transactions": [
+            {"Saturday":{"Noon": "100","Amazon": "100","Netflix": "800" }},
+            {"Sunday":{"Costa": "2000","Books": "200","Groceries": "100" }},
+            {"Monday":{"ElectricPill": "500","Noon": "50","Laptop": "50" }},
+            {"Tuesday":{"Tickets": "200","Shopping": "1000","Phone": "200" }},
+            {"Wednesday":{"Insurance": "100","Suplements": "400","Travel": "400" }},
+            {"Thursday":{"Course": "50","New Tv": "400","House Pills": "400" }},
+            {"Friday":{"Starbucks": "100","Travel": "100","Dentist": "700" }}
+               
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Bassem Ahmed",
+            "income": "7000",
+            "spending": 4130,
+            "email":"bassemAhmed@gmail.com",
+            "transactions": [
+            {"Saturday":{"Noon": "50","Amazon": "100","Netflix": "200" }},
+            {"Sunday":{"Costa": "1000","Books": "100","Groceries": "100" }},
+            {"Monday":{"ElectricPill": "40","Noon": "50","Laptop": "50" }},
+            {"Tuesday":{"Tickets": "200","Shopping": "40","Phone": "200" }},
+            {"Wednesday":{"Insurance": "100","Suplements": "400","Travel": "400" }},
+            {"Thursday":{"Course": "50","New Tv": "400","House Pills": "400" }},
+            {"Friday":{"Starbucks": "100","Travel": "100","Dentist": "50" }}
+               
+            ]
+        }
+    
+        
+      
+      
+      
+    ]
+}
